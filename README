@@ -6,6 +6,6 @@ bash and busybox.
 arch: arm
 abi : armv7-a-neon
 
-binary files only, but i has fixed bashrc configure file for more convenient.
-you should get the code from CyanogenMod
+Binary files only, but i have been fixed bashrc configure file for more convenient.
+I have been tested on Galaxy Nexus (GSM). and you can get the code from CyanogenMod
 
