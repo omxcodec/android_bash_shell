@@ -10,7 +10,7 @@ adb push busybox /system/xbin
 
 exist=$(adb shell "if [ -f "/system/lib/libncurses.so" ]; then echo "YES"; else echo "NO"; fi")
 
-# exist len is 3!
+# $exist len: NO is 3; YES is 4!
 #echo $exist
 #len=`expr length $exist`
 #echo len=$len
